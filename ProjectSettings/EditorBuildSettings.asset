@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0 Splash.unity
+    guid: f8fb487a4db9a5243989b7fcacb8c82a
+  - enabled: 1
+    path: Assets/Scenes/1 MainMenu.unity
+    guid: b6a4c86652b326c469b9618e79bdd56b
+  - enabled: 1
+    path: Assets/Scenes/2 History.unity
+    guid: 12860535ede155d4fb9e212079bd742f
+  - enabled: 1
+    path: Assets/Scenes/3 VR Glow.unity
+    guid: 54f91273526a73f4cbde854d8bf458aa
+  - enabled: 1
+    path: Assets/Scenes/4 VR GridWave.unity
+    guid: f53feb67606510747afea8284f8b8eca
+  - enabled: 1
+    path: Assets/Scenes/5 VR SplineTrack.unity
+    guid: 3fafa463c9e2166488d5c4c83555c619
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8ebc6177b8253dd44864f1961e76c1dd, type: 2}
+  m_UseUCBPForAssetBundles: 0
