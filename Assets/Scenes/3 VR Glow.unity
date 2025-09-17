@@ -1196,7 +1196,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f478d43f27e324b7199d5dccff4298b7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  touchToResume: 1
+  touchToResume: 0
 --- !u!4 &1799306723 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4000014274899290, guid: c43602d5712fe4fd4bf33173bb6b8e26, type: 3}

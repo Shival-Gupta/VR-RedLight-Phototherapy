@@ -1139,7 +1139,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: <B>15 mins</B>
+  m_Text: <B>10 mins</B>
 --- !u!222 &2050196940
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1267,7 +1267,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: <B>10 mins</B>
+  m_Text: <B>1 mins</B>
 --- !u!114 &407919333816872791
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2414,7 +2414,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: <B>5 mins</B>
+  m_Text: <B>30 sec</B>
 --- !u!114 &3309262054883605757
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3631,10 +3631,10 @@ RectTransform:
   - {fileID: 2326597828045629234}
   m_Father: {fileID: 7387171929000332379}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 55, y: -20}
+  m_SizeDelta: {x: 100, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &6437166121228303993
 RectTransform:
@@ -3807,7 +3807,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: <B>3 mins</B>
+  m_Text: <B>6 sec</B>
 --- !u!114 &6822339335353485974
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4517,7 +4517,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &9057783039453245376
 MonoBehaviour:
   m_ObjectHideFlags: 0
