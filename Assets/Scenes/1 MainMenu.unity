@@ -1385,7 +1385,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: <B>Grid/Wave Pattern</B>
+  m_Text: <B>Grid-Wave Pattern</B>
 --- !u!114 &696635210583577504
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2540,7 +2540,7 @@ MonoBehaviour:
   onValueChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_IsOn: 0
+  m_IsOn: 1
 --- !u!224 &3553169817423842380
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2650,7 +2650,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: <B>Spline/Track Pattern</B>
+  m_Text: <B>Spline-Track Pattern</B>
 --- !u!224 &3921754905486113496
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3735,7 +3735,7 @@ MonoBehaviour:
   onValueChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_IsOn: 1
+  m_IsOn: 0
 --- !u!114 &6572953139827832941
 MonoBehaviour:
   m_ObjectHideFlags: 0

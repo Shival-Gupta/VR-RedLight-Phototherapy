@@ -39,9 +39,9 @@ Material:
     m_Ints: []
     m_Floats:
     - _DisplacementAmplitude: 0.5
-    - _GlowIntensity: 2
+    - _GlowIntensity: 2.04
     - _GridBlend: 0.0742
-    - _GridScale: 1
+    - _GridScale: 7.5
     - _LineThickness: 0.05
     - _NoiseScale: 0.01
     - _QueueControl: 0
